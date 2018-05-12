@@ -1,0 +1,28 @@
+_repo: Under-Fire--A-Tale-of-New-England-Village-Life_27935
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Munsey, Frank Andrew
+    alias: Munsey, Frank A.
+    birthdate: 1854
+    deathdate: 1925
+    gutenberg_agent_id: '33024'
+    url: http://www.gutenberg.org/2009/agents/33024
+description: ''
+gutenberg_issued: '2009-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- Fiction'
+- !lcsh 'New England -- Fiction'
+- !lcc 'PS'
+title: 'Under Fire: A Tale of New England Village Life'
+url: http://www.gutenberg.org/ebooks/27935
