@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33024'
     url: http://www.gutenberg.org/2009/agents/33024
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27935#Under-Fire--A-Tale-of-New-England-Village-Life
 gutenberg_issued: '2009-01-30'
 gutenberg_type: Text
 identifiers:
